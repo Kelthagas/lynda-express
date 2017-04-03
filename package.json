@@ -1,10 +1,10 @@
 {
   "name": "lynda_express",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Files for learning purposes for building a website with Node & ExpressJS on Lynda.com",
+  "main": "app/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app/app.js"
   },
   "author": "Andrew Batallones",
   "license": "ISC",

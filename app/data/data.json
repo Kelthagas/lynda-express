@@ -1,0 +1,23 @@
+{
+    "speakers": 
+    [
+        {
+            "title" : "Art in Full Bloom",
+            "name" : "Some Guy",
+            "shortname" : "Some_Guy",
+            "summary" : "Drawing...maybe?"
+        },
+        {
+            "title" : "Something Artsy",
+            "name" : "Some Lady",
+            "shortname" : "Some_Lady",
+            "summary" : "I know its something to do with art."
+        },
+        {
+            "title" : "Meh...",
+            "name" : "Some Kid",
+            "shortname" : "Some_Kid",
+            "summary" : "He's a math teacher..."
+        }
+    ]
+}
